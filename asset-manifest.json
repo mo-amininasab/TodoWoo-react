@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TodoWoo-react/static/css/main.cb4c8414.chunk.css",
+    "main.js": "/TodoWoo-react/static/js/main.cca3653b.chunk.js",
+    "main.js.map": "/TodoWoo-react/static/js/main.cca3653b.chunk.js.map",
+    "runtime-main.js": "/TodoWoo-react/static/js/runtime-main.690ec664.js",
+    "runtime-main.js.map": "/TodoWoo-react/static/js/runtime-main.690ec664.js.map",
+    "static/js/2.69d0238d.chunk.js": "/TodoWoo-react/static/js/2.69d0238d.chunk.js",
+    "static/js/2.69d0238d.chunk.js.map": "/TodoWoo-react/static/js/2.69d0238d.chunk.js.map",
+    "static/js/3.eb4bd7ba.chunk.js": "/TodoWoo-react/static/js/3.eb4bd7ba.chunk.js",
+    "static/js/3.eb4bd7ba.chunk.js.map": "/TodoWoo-react/static/js/3.eb4bd7ba.chunk.js.map",
+    "index.html": "/TodoWoo-react/index.html",
+    "static/css/main.cb4c8414.chunk.css.map": "/TodoWoo-react/static/css/main.cb4c8414.chunk.css.map",
+    "static/js/2.69d0238d.chunk.js.LICENSE.txt": "/TodoWoo-react/static/js/2.69d0238d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.690ec664.js",
+    "static/js/2.69d0238d.chunk.js",
+    "static/css/main.cb4c8414.chunk.css",
+    "static/js/main.cca3653b.chunk.js"
+  ]
+}
